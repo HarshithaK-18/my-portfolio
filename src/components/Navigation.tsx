@@ -85,10 +85,7 @@ export const Navigation = () => {
                 {item.label}
               </button>
             ))}
-            <Button className="w-full bg-gradient-to-r from-primary to-accent text-background">
-              <Download className="w-4 h-4 mr-2" />
-              Download Resume
-            </Button>
+             
           </div>
         )}
       </div>
