@@ -2,7 +2,7 @@ Portfolio
 
 Check out my personal portfolio website deployed on Vercel:
 
-👉 my-portfolio-sigma-tan-67.vercel.app
+👉 https://my-portfolio-sigma-tan-67.vercel.app
 
 This portfolio highlights my projects, skills, certifications, and experience with a clean and modern UI.
 
