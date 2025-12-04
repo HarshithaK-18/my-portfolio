@@ -58,10 +58,7 @@ export const Navigation = () => {
                 {item.label}
               </button>
             ))}
-            <Button className="bg-gradient-to-r from-primary to-accent text-background hover:opacity-90">
-              <Download className="w-4 h-4 mr-2" />
-              Download Resume
-            </Button>
+           
           </div>
 
           {/* Mobile Menu Button */}
