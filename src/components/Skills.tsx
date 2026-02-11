@@ -13,7 +13,7 @@ export const Skills = () => {
     {
       category: "AI/ML Frameworks & Libraries",
       icon: Brain,
-      skills: ["LangChain", "GPT4All", "Keras", "TensorFlow"],
+      skills: ["LangChain", "LangGraph", "GPT4All", "Keras", "TensorFlow"],
       color: "pink",
       iconBg: "bg-pink-500/20",
       badgeClass: "bg-pink-500/20 text-pink-300 hover:bg-pink-500/30",
@@ -29,7 +29,7 @@ export const Skills = () => {
     {
       category: "Web Development",
       icon: Globe,
-      skills: ["Angular", "React", "Flask", "HTML", "CSS", "JavaScript"],
+      skills: ["Angular", "React", "Flask", "Node.js", "HTML", "CSS", "JavaScript"],
       color: "pink",
       iconBg: "bg-pink-500/20",
       badgeClass: "bg-pink-500/20 text-pink-300 hover:bg-pink-500/30",
@@ -37,7 +37,7 @@ export const Skills = () => {
     {
       category: "Database Query Languages",
       icon: Database,
-      skills: ["MySQL", "SQLite", "SQL"],
+      skills: ["MySQL", "SQLite", "SQL", "MongoDB"],
       color: "cyan",
       iconBg: "bg-cyan-500/20",
       badgeClass: "bg-cyan-500/20 text-cyan-300 hover:bg-cyan-500/30",
